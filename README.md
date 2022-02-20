@@ -6,33 +6,14 @@ Data Analytics Portfolio
 
 ## Code Used
 **SQL Github:** https://github.com/arapfaik/scraping-glassdoor-selenium  
-**Tableau dashboard:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905  
+**Tableau:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905  
 
 ## Data Cleaning
-After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
+I merged 12 CSV files containing trip information for past 12 months and made the following changes:
 
-*	Parsed numeric data out of salary 
-*	Made columns for employer provided salary and hourly wages 
-*	Removed rows without salary 
-*	Parsed rating out of company text 
-*	Made a new column for company state 
-*	Added a column for if the job was at the company’s headquarters 
-*	Transformed founded date into age of company 
-*	Made columns for if different skills were listed in the job description:
-    * Python  
-    * R  
-    * Excel  
-    * AWS  
-    * Spark 
-*	Column for simplified job title and Seniority 
-*	Column for description length 
-
-## EDA
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
-
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/salary_by_job_title.PNG "Salary by Position")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/positions_by_state.png "Job Opportunities by State")
-![alt text](https://github.com/PlayingNumbers/ds_salary_proj/blob/master/correlation_visual.png "Correlations")
+*	Created new columns for ride length and day of the week
+*	Removed rows with ride length less than 10 minutes
+*	Removed rows with nil latittude and longtitude
 
 ## EDA & Visualisation 
 * Number of trips and average ride length per month, day of the week and each hour during the day  
