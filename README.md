@@ -21,4 +21,4 @@ I merged 12 CSV files containing trip information for past 12 months and made th
 
 ## Recommendation
 * In order to achieve maximum reach of casual riders, it is recommended that advertisement is to be placed  **during summer season** (monthly trend), **on the weekend** (day of the week), **from 12pm to 5pm** (hour of the day) and **in Harbour and Millennium Park area** (geographic concentration).
-* In relation to the observation that casuals take longer rides than annual member, the company could use some form of communication as prompt at the end of each ride to recognise it as a milestone in order to entice future rides which may subsequently become subcription.
+* In relation to the observation that casuals take longer rides than annual member, the company could use some form of communication as prompt at the end of each ride to recognise it as a milestone in order to entice future rides which may subsequently become subscription.
