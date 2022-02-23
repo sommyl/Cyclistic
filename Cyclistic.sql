@@ -1,3 +1,0 @@
-/*
-SQL codes for Cyclistic
-*/
