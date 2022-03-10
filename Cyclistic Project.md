@@ -38,7 +38,7 @@ Following changes were made in the cleaning process
 *	Removed 4,754 rows with nil latittude and longtitude due to incomplete information for geographic mapping
 
 ## EDA & Visualisation 
-* Analysis is focused on observiing different pattern of rides between casual and member riders in order to derive insights for conversion strategy
+* Analysis is focused on observing difference in ride patterns between casual and member riders in order to derive insights for conversion strategy
 * Number of rides and ride length have been compared between casuals and members by frequency of month, day of the week and time of the day in order to identify the optimum period for advertising with widest reach
 * The start station and end station have been mapped out in order to find out concentration of rides between casuals and members in order to find out the optimum location for advertising
 
