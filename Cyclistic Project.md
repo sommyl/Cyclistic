@@ -38,13 +38,13 @@ Following changes were made in the cleaning process
 *	Removed 4,754 rows with nil latittude and longtitude due to incomplete information for geographic mapping
 
 ## EDA & Visualisation 
-* Analysis is focused on observing difference in ride patterns between casual and member riders in order to derive insights for conversion strategy
-* All information has been utilised in the dataset to derive respective analysis as follows
+Analysis is focused on observing difference in ride patterns between casual and member riders in order to derive insights for conversion strategy. All information given in the dataset has been utilised to construct analysis as follows
 * Number of rides and ride length (derived from rider ID and time information) have been compared between casuals and members by frequency of month, day of the week and time of the day in order to identify the optimum period for advertising with widest reach 
 * Start station and end station (pin dropped on the map based on latitude and longtitude) have been mapped out to find out concentration of ride locations between casuals and members and the optimum location for advertising
 
 ## Recommendation
-* In order to achieve maximum reach of casual riders, it is recommended that 
+In order to achieve maximum reach of casual riders, it is recommended that 
 * Advertisement is to be placed **during summer season** **on the weekend** **from 12pm to 5pm** as data indicated that this is when casual riders are most active measured by average number of trips taken.
 * The ideal location **in Harbour and Millennium Park area** based on geographic concentration for casual riders as specified by density on the map.
-* In relation to the general observation that casuals takes longer rides in kms than annual member, the company could use some form of communication as prompt at the end of each ride to recognise a milestone of kms achieved in comparison to an average member user to incentivise future rides which may subsequently result in member conversion.
+
+In relation to the general observation that casuals takes longer rides in kms than annual member, the company could use some form of communication as prompt at the end of each ride to recognise a milestone of kms achieved in comparison to an average member user to incentivise future rides which may subsequently result in member conversion.
