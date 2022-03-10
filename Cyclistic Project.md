@@ -39,6 +39,7 @@ Following changes were made in the cleaning process
 
 ## EDA & Visualisation 
 * Analysis is focused on observing difference in ride patterns between casual and member riders in order to derive insights for conversion strategy
+* All information has been utilised in the dataset to derive respective analysis as follows
 * Number of rides and ride length (derived from rider ID and time information) have been compared between casuals and members by frequency of month, day of the week and time of the day in order to identify the optimum period for advertising with widest reach 
 * Start station and end station (pin dropped on the map based on latitude and longtitude) have been mapped out to find out concentration of ride locations between casuals and members and the optimum location for advertising
 
