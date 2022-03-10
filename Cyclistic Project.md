@@ -5,8 +5,8 @@ Data Analytics Portfolio
 * Design marketing strategies aimed at converting casual riders into annual members for a bikeshare company in Chicago
 
 ## Code Used
-**SQL Github:** https://github.com/arapfaik/scraping-glassdoor-selenium  
-**Tableau:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905  
+**SQL Github:** https://github.com/sommyl/Sophie-Portfolio/blob/main/Cyclistic.sql
+**Tableau:** https://public.tableau.com/app/profile/sophie.liu3966/viz/Cyclistic_16450573041030/Story1
 
 ## Data Cleaning
 I merged 12 CSV files containing trip information for past 12 months and made the following changes:
