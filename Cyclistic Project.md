@@ -45,6 +45,5 @@ Analysis is focused on observing difference in ride patterns between casual and 
 ## Recommendation
 In order to achieve maximum reach of casual riders, it is recommended that 
 * Advertisement is to be placed **during summer season** **on the weekend** **from 12pm to 5pm** as data indicated that this is when casual riders are most active measured by average number of trips taken.
-* The ideal location for advertising **in Harbour and Millennium Park area** is based on geographic concentration for casual riders as specified by density on the map.
-
-In relation to the general observation that casuals takes longer rides in kms than annual member, the company could use some form of communication as prompt at the end of each ride to recognise a milestone of kms achieved in comparison to an average member user to incentivise future rides which may subsequently result in member conversion.
+* The ideal location for advertising is **in Harbour and Millennium Park area** which captures higher density of start and end point for casual riders.
+* Based on ride length comparison which shows casuals takes longer rides in kms than members, the company could some form of communication as prompt at the end of each ride to recognise a milestone of kms achieved in comparison to an average member user to incentivise future rides which may subsequently result in member conversion.
