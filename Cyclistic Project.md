@@ -42,10 +42,10 @@ Analysis is focused on observing difference in ride patterns between casual and 
 * Number of rides and ride length (derived from rider ID and time information) have been compared between casuals and members by frequency of month, day of the week and time of the day in order to identify the optimum period for advertising with widest reach 
 * Start station and end station (pin dropped on the map based on latitude and longtitude) have been mapped out to find out concentration of ride locations between casuals and members and the optimum location for advertising
 
-![alt text](https://github.com/sommyl/Sophie-Portfolio/blob/main/Cyclistic%20image%201.png "Number of Trips and Trip Length by Month")
-![alt text](https://github.com/sommyl/Sophie-Portfolio/blob/main/Cyclistic%20image%202.png "Number of Trips and Trip Length by Day of the Week")
-![alt text](https://github.com/sommyl/Sophie-Portfolio/blob/main/Cyclistic%20image%203.png "Number of Trips and Trip Length by Hour")
-![alt text](https://github.com/sommyl/Sophie-Portfolio/blob/main/Cyclistic%20image%204.png "Map of Start and End Location")
+![alt text](https://github.com/sommyl/Sophie-Portfolio/blob/main/month.png "Number of Trips and Trip Length by Month")
+![alt text](https://github.com/sommyl/Sophie-Portfolio/blob/main/weekday.png "Number of Trips and Trip Length by Day of the Week")
+![alt text](https://github.com/sommyl/Sophie-Portfolio/blob/main/hour.png "Number of Trips and Trip Length by Hour")
+![alt text](https://github.com/sommyl/Sophie-Portfolio/blob/main/map.png "Map of Start and End Location")
 
 ## Recommendation
 In order to achieve maximum reach of casual riders, it is recommended that 
