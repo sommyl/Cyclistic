@@ -2,7 +2,8 @@
 Data Analytics Portfolio
 
 # [Project 1: Cyclistic: Project Overview](https://github.com/sommyl/Sophie-Portfolio/blob/main/Cyclistic%20Project.md)
-* Business task: To provide insights for marketing strategies aimed at converting casual riders into annual members for a bikeshare company in Chicago
+* Cyclistic is a bike share company based in Chicago.
+* The business task is to provide insights for marketing strategies aimed at converting casual riders into annual members.
 
 ## Code Used
 **SQL Github:** https://github.com/sommyl/Sophie-Portfolio/blob/main/Cyclistic.sql
